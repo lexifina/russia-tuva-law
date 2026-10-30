@@ -1,0 +1,11 @@
+{
+  "path": "ru-ty",
+  "code": "RU-TY",
+  "name": "Tuva Republic",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-tuva-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
