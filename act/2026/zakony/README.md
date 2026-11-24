@@ -1,6 +1,6 @@
 # Tuva Republic: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 13 versions, from 2026-02-09 (latest in force: 2026-10-13) · <http://publication.pravo.gov.ru/documents/block/region17>
+Законы 2026 · 14 versions, from 2026-02-09 (latest in force: 2026-11-03) · <http://publication.pravo.gov.ru/documents/block/region17>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -65,7 +65,19 @@
 | Закон № 59-ЗРТ | [59-zrt.md](59-zrt.md) | 1 | 2026-10-13 |
 | Конституционный закон № 6-КЗРТ | [6-kzrt.md](6-kzrt.md) | 1 | 2026-06-03 |
 | Закон № 6-ЗРТ | [6-zrt.md](6-zrt.md) | 1 | 2026-02-27 |
+| Закон № 60-ЗРТ | [60-zrt.md](60-zrt.md) | 1 | 2026-11-03 |
+| Закон № 61-ЗРТ | [61-zrt.md](61-zrt.md) | 1 | 2026-11-03 |
+| Закон № 62-ЗРТ | [62-zrt.md](62-zrt.md) | 1 | 2026-11-03 |
+| Закон № 63-ЗРТ | [63-zrt.md](63-zrt.md) | 1 | 2026-11-03 |
+| Закон № 64-ЗРТ | [64-zrt.md](64-zrt.md) | 1 | 2026-11-03 |
+| Закон № 65-ЗРТ | [65-zrt.md](65-zrt.md) | 1 | 2026-11-03 |
+| Закон № 66-ЗРТ | [66-zrt.md](66-zrt.md) | 1 | 2026-11-03 |
+| Закон № 67-ЗРТ | [67-zrt.md](67-zrt.md) | 1 | 2026-11-03 |
+| Закон № 68-ЗРТ | [68-zrt.md](68-zrt.md) | 1 | 2026-11-03 |
+| Закон № 69-ЗРТ | [69-zrt.md](69-zrt.md) | 1 | 2026-11-03 |
 | Конституционный закон № 7-КЗРТ | [7-kzrt.md](7-kzrt.md) | 1 | 2026-10-13 |
 | Закон № 7-ЗРТ | [7-zrt.md](7-zrt.md) | 1 | 2026-02-27 |
+| Закон № 70-ЗРТ | [70-zrt.md](70-zrt.md) | 1 | 2026-11-03 |
+| Конституционный закон № 8-КЗРТ | [8-kzrt.md](8-kzrt.md) | 1 | 2026-11-03 |
 | Закон № 8-ЗРТ | [8-zrt.md](8-zrt.md) | 1 | 2026-02-27 |
 | Закон № 9-ЗРТ | [9-zrt.md](9-zrt.md) | 1 | 2026-04-07 |
