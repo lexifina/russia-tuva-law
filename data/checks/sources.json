@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-tuva",
+   "kind": "legislation",
+   "name": {
+    "en": "Tuva Republic: Official Internet Portal of Legal Information (region17)",
+    "ru": "Tuva Republic: Официальный интернет-портал правовой информации (region17)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region17",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/tuva/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-tuva-law",
+   "group": "pravo",
+   "tz": "Asia/Krasnoyarsk"
+  }
+ ]
+}
