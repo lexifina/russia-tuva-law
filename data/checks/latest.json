@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:59:18Z",
+ "generated": "2026-11-25T07:03:15Z",
  "latest": {
   "pravo-tuva|russia/tuva/acts": {
    "attempt": 1,
@@ -13,42 +13,25 @@
    },
    "census": {
     "checked": 1299,
-    "current": 1287,
+    "current": 1299,
     "gone": 0,
-    "held": 1287,
-    "newest_in_repo": "2026-10-13",
-    "pending": 12,
-    "repo": 1287,
+    "held": 1299,
+    "newest_in_repo": "2026-11-03",
+    "pending": 0,
+    "repo": 1299,
     "source_in_scope": 1299
    },
-   "check_id": "ru-pravo-tuva-20261124T145739Z",
-   "commits": {
-    "count": 2,
-    "from": "0a83ed715c0ddc39eb47359107f67964d14af51d",
-    "to": "a349cdbc24f9d3dd336b7771112e6478ff2dba34"
-   },
+   "check_id": "ru-pravo-tuva-20261125T064137Z",
+   "commits": null,
    "corpus": "russia/tuva/acts",
    "error": null,
-   "finished": "2026-11-24T14:59:17Z",
+   "finished": "2026-11-25T06:42:23Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region17: 1299 law-type documents listed (every page read); 1287 held here; 12 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region17: 1299 law-type documents listed (every page read); 1299 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "1700202611030001",
-     "1700202611030002",
-     "1700202611030003",
-     "1700202611030004",
-     "1700202611030005",
-     "1700202611030006",
-     "1700202611030007",
-     "1700202611030008",
-     "1700202611030013",
-     "1700202611030015",
-     "1700202611030017",
-     "1700202611030018"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -56,39 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "1700202611030001",
-     "1700202611030002",
-     "1700202611030003",
-     "1700202611030004",
-     "1700202611030005",
-     "1700202611030006",
-     "1700202611030007",
-     "1700202611030008",
-     "1700202611030013",
-     "1700202611030015",
-     "1700202611030017",
-     "1700202611030018"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1299 law-type documents in block region17; newest published 2026-11-03",
    "source": "pravo-tuva",
-   "started": "2026-11-24T14:57:39Z",
+   "started": "2026-11-25T06:41:37Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
