@@ -1,6 +1,6 @@
 # How this repository was made (Tuva Republic)
 
-This file is written by the build on 2026-11-24, the day the source data was retrieved.
+This file is written by the build on 2026-11-26, the day the source data was retrieved.
 
 ## Sources
 
@@ -36,23 +36,23 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `zakony-2023` | Tuva Republic: catalogue of the laws published in 2023 (facts only, no law text) | 25 | 2023-02-22 to 2023-12-29 |
 | `zakony-2024` | Tuva Republic: catalogue of the laws published in 2024 (facts only, no law text) | 21 | 2024-03-12 to 2024-12-27 |
 | `zakony-2025` | Tuva Republic: catalogue of the laws published in 2025 (facts only, no law text) | 25 | 2025-03-11 to 2025-12-26 |
-| `zakony-2026` | Tuva Republic: catalogue of the laws published in 2026 (facts only, no law text) | 14 | 2026-02-09 to 2026-11-03 |
+| `zakony-2026` | Tuva Republic: catalogue of the laws published in 2026 (facts only, no law text) | 15 | 2026-02-09 to 2026-11-25 |
 
-The build made 308 commits:
+The build made 309 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 12 | baseline texts where the record starts |
-| 296 | named laws, court decisions and treaties |
+| 297 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-24.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-26.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 296 laws in the record.
-- 604 tags.
+- 297 laws in the record.
+- 606 tags.
 
 ## Dates
 
@@ -64,7 +64,7 @@ When a law gives no date of its own, the default rule applies: Catalogue entries
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `4698b418a7ec73e09fbddc7bfdf23a3a3f2bdeab8e780bc1ca046a7e36bb3f58` (1276948 bytes).
+- Corpus: sha256 `dbeef635501f4bdd3fb02067ef0a8eb297ada4b56eb854e684a5307d03c6e552` (1346789 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 

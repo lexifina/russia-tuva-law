@@ -1,6 +1,6 @@
 # Tuva Republic: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 14 versions, from 2026-02-09 (latest in force: 2026-11-03) · <http://publication.pravo.gov.ru/documents/block/region17>
+Законы 2026 · 15 versions, from 2026-02-09 (latest in force: 2026-11-25) · <http://publication.pravo.gov.ru/documents/block/region17>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -78,6 +78,7 @@
 | Конституционный закон № 7-КЗРТ | [7-kzrt.md](7-kzrt.md) | 1 | 2026-10-13 |
 | Закон № 7-ЗРТ | [7-zrt.md](7-zrt.md) | 1 | 2026-02-27 |
 | Закон № 70-ЗРТ | [70-zrt.md](70-zrt.md) | 1 | 2026-11-03 |
+| Закон № 72-ЗРТ | [72-zrt.md](72-zrt.md) | 1 | 2026-11-25 |
 | Конституционный закон № 8-КЗРТ | [8-kzrt.md](8-kzrt.md) | 1 | 2026-11-03 |
 | Закон № 8-ЗРТ | [8-zrt.md](8-zrt.md) | 1 | 2026-02-27 |
 | Закон № 9-ЗРТ | [9-zrt.md](9-zrt.md) | 1 | 2026-04-07 |

@@ -2860,12 +2860,21 @@
     },
     {
      "from": "2026-11-03",
-     "to": null,
-     "status": "as captured",
+     "to": "2026-11-24",
+     "status": "replaced",
      "text_as_of": null,
      "units": 77,
      "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region17",
      "sha256": "bed5c61b8521c3d6994fc34825282b32ab5fc6cdff9a02aed15f90e907699468"
+    },
+    {
+     "from": "2026-11-25",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region17",
+     "sha256": "b94f47940a6a8491b3366ea3b1e9ed73860c18b3e1a46a2d80351f3da12be6e8"
     }
    ]
   }
