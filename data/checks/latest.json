@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:20:29Z",
+ "generated": "2026-11-27T06:12:23Z",
  "latest": {
   "pravo-tuva|russia/tuva/acts": {
    "attempt": 1,
@@ -13,31 +13,25 @@
    },
    "census": {
     "checked": 1300,
-    "current": 1299,
+    "current": 1300,
     "gone": 0,
-    "held": 1299,
-    "newest_in_repo": "2026-11-03",
-    "pending": 1,
-    "repo": 1299,
+    "held": 1300,
+    "newest_in_repo": "2026-11-25",
+    "pending": 0,
+    "repo": 1300,
     "source_in_scope": 1300
    },
-   "check_id": "ru-pravo-tuva-20261126T060437Z",
-   "commits": {
-    "count": 2,
-    "from": "ebc90a8c56819c5c0246737f3ead0fe5f3c6983f",
-    "to": "f4a237303334059e34ab190e06524ac32f83ab76"
-   },
+   "check_id": "ru-pravo-tuva-20261127T055816Z",
+   "commits": null,
    "corpus": "russia/tuva/acts",
    "error": null,
-   "finished": "2026-11-26T06:05:26Z",
+   "finished": "2026-11-27T05:58:51Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region17: 1300 law-type documents listed (every page read); 1299 held here; 1 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region17: 1300 law-type documents listed (every page read); 1300 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "1700202611250001"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -45,28 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "1700202611250001"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1300 law-type documents in block region17; newest published 2026-11-25",
    "source": "pravo-tuva",
-   "started": "2026-11-26T06:04:37Z",
+   "started": "2026-11-27T05:58:16Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261126-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
