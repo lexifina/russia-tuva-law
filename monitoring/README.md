@@ -4,18 +4,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Tuva Republic only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-27 05:58 UTC, Tuva Republic: Official Internet Portal of Legal Information (region17): 10 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
+**Last check:** 2026-11-28 06:10 UTC, Tuva Republic: Official Internet Portal of Legal Information (region17): 10 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Tuva Republic: Official Internet Portal of Legal Information (region17)](http://publication.pravo.gov.ru/documents/block/region17) | `zakony-<year>/` | daily | 2026-11-27 05:58 UTC | no change | watched |
+| [Tuva Republic: Official Internet Portal of Legal Information (region17)](http://publication.pravo.gov.ru/documents/block/region17) | `zakony-<year>/` | daily | 2026-11-28 06:10 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 06:10](checks/2026-11.md#ru-pravo-tuva-20261128t061004z) | pravo-tuva | 10 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-27 05:58](checks/2026-11.md#ru-pravo-tuva-20261127t055816z) | pravo-tuva | 10 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-26 06:04](checks/2026-11.md#ru-pravo-tuva-20261126t060437z) | pravo-tuva | 10 | 1 | 0 | 0 | 0 (0) | changes found | [2](https://github.com/lexifina/russia-tuva-law/compare/ebc90a8c5681...f4a237303334) |
 | [2026-11-25 06:41](checks/2026-11.md#ru-pravo-tuva-20261125t064137z) | pravo-tuva | 10 | 0 | 0 | 0 | 0 (0) | no change | — |

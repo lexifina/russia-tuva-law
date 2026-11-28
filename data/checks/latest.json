@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:12:23Z",
+ "generated": "2026-11-28T06:26:40Z",
  "latest": {
   "pravo-tuva|russia/tuva/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1300,
     "source_in_scope": 1300
    },
-   "check_id": "ru-pravo-tuva-20261127T055816Z",
+   "check_id": "ru-pravo-tuva-20261128T061004Z",
    "commits": null,
    "corpus": "russia/tuva/acts",
    "error": null,
-   "finished": "2026-11-27T05:58:51Z",
+   "finished": "2026-11-28T06:10:49Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region17: 1300 law-type documents listed (every page read); 1300 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1300 law-type documents in block region17; newest published 2026-11-25",
    "source": "pravo-tuva",
-   "started": "2026-11-27T05:58:16Z",
+   "started": "2026-11-28T06:10:04Z",
    "unexplained": 0,
    "update": {
     "parts": []
